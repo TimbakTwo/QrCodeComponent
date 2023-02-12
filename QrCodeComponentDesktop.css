@@ -1,0 +1,122 @@
+body {
+	background-color: #d5e1ef;
+	font-family: 'Outfit', sans-serif;
+	
+	
+}
+
+#one {
+	font-weight: 800;
+	color: hsl(218, 44%, 22%);
+	font-size: 18px;
+	left: 37px;
+}
+
+#two {
+	font-weight: 800;
+	color: hsl(218, 44%, 22%);
+	font-size: 17px;
+	left: 30px;
+	top: 308px;
+	
+}
+
+#QrCodeComponent {
+	width: 300px;
+	height: 440px;
+	position: absolute;
+	left: 550px;
+	top: 115px;
+	border-radius: 4% 4% 7% 7%;
+	border: 1px solid transparent;
+	background-color: #ffffff;
+}
+
+#qrCodeImage {
+	height: 270px;
+	
+	border-radius: 10px;
+	position: absolute;
+	left: 15px;
+	top: 10px;
+}
+
+h3 {
+	position: absolute;
+	top: 280px;
+	left: 34px;
+	text-align: center;
+	
+}
+
+
+
+p {
+	font-size: 15px;
+	position: absolute;
+	top: 350px;
+	text-align: center;
+	left: 27px;
+	color: hsl(220, 15%, 55%);
+	
+}
+
+@media only screen and (max-width: 375px) {
+	#one {
+	font-weight: 800;
+	color: hsl(218, 44%, 22%);
+	font-size: 17px;
+	left: 45px;
+	top: 295px;
+}
+
+#two {
+	font-weight: 800;
+	color: hsl(218, 44%, 22%);
+	font-size: 17px;
+	left: 30px;
+	top: 325px;
+	
+}
+
+#QrCodeComponent {
+	width: 300px;
+	height: 490px;
+	position: absolute;
+	left: 37px;
+	top: 75px;
+	border-radius: 4% 4% 7% 7%;
+	border: 1px solid transparent;
+	background-color: #ffffff;
+}
+
+#qrCodeImage {
+	height: 270px;
+	
+	border-radius: 10px;
+	position: absolute;
+	left: 15px;
+	top: 10px;
+}
+
+h3 {
+	position: absolute;
+	top: 270px;
+	left: 34px;
+	text-align: center;
+	
+}
+
+
+
+p {
+	font-size: 16px;
+	position: absolute;
+	top: 380px;
+	text-align: center;
+	left: 20px;
+	color: hsl(220, 15%, 55%);
+	
+}
+
+}
