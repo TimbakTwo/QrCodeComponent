@@ -9,4 +9,4 @@ first front end mentor task?
 upload test
 
 a repository without framework usage
-static webpage
+static webpages
